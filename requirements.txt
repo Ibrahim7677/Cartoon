@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gfpgan
+opencv-python-headless
+pillow
+numpy
+torch
